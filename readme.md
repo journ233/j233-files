@@ -1,3 +1,3 @@
 # Homework
 
-Code needed for homework assignments.
+Notebooks needed for lectures and homework.
